@@ -29,4 +29,4 @@ I'm a dev from <a href=""><img src="https://cdn-icons-png.flaticon.com/512/197/1
 
 ---
 ### 🧏‍♂️ Profile translations:
-- 🇵🇹/🇧🇷: [Clique aqui](https://github.com/vinciusb/vinciusb/blob/main/README_pt_br.md)
+- 🇵🇹/🇧🇷: [Clique aqui](https://github.com/JunioVeras/JunioVeras/blob/main/README_pt_br.md)
