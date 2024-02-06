@@ -4,7 +4,7 @@
 ### 🙋‍♂️ Sobre mim
 Eu sou um desenvolvedor do <a href=""><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width=13 style="height: auto" /></a> **Brazil** e atualmente estudante 🤓.
 
-- 🔭 Estou atualmente trabalhando como estagiário desenvolvendo front e back-end.
+- 🔭 Estou atualmente trabalhando como desenvolvendor back-end.
 - 📫 Entre em contato: junioveras127@gmail.com | [LinkedIn](https://www.linkedin.com/in/junio-veras/).
 - 📕 Estudando na [Universidade Federal de Minas Gerais](https://ufmg.br/).
 
