@@ -4,7 +4,7 @@
 ### 🙋‍♂️ About me
 I'm a dev from <a href=""><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width=13 style="height: auto" /></a> **Brazil** and currently attending university 🤓.
 
-- 🔭 I'm currently working as an intern developing front and back-end.
+- 🔭 I'm currently working as a back-end developer.
 - 📫 Get in touch: junioveras127@gmail.com | [LinkedIn](https://www.linkedin.com/in/junio-veras/).
 - 📕 Attending university at [Universidade Federal de Minas Gerais](https://ufmg.br/).
 
